@@ -1,0 +1,12 @@
+﻿# wirtualne środowisko
+venv/
+# cache i śmieci
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+# dane lokalne (nie wrzucamy surowych ani przetworzonych)
+data/raw/
+data/processed/
+# pliki tymczasowe
+.DS_Store
+Thumbs.db
